@@ -1,0 +1,14 @@
+h1 {
+ color: pink;
+ margin: 30px;
+}
+
+.header{
+    border: solid;
+}
+
+.header{
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-between;
+}
